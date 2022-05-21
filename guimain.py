@@ -27,7 +27,7 @@ class nicehashapp:
         root.wm_iconbitmap('logosmol.ico')
 
         #Nicehash Logo
-        logo = PhotoImage(file = "ncbarlogo_smaller.png")
+        logo = PhotoImage(file = "ncbarlogo smaller.png")
         logoplace = ttk.Label( root, image = logo)
         logoplace.place(x = 187, y = 5)
 
