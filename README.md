@@ -28,7 +28,7 @@ Nicehash sends the statistics of your rig in the JSON format which contains vita
 
 ## Dependencies
 
-Since windows defender is flagging the executable file as a false positive virus, currently you have to downlaod and run the script manually. Here are the list of things you need to install inorder to run this script:
+Since windows defender is flagging the executable file as a false positive virus, currently you have to download and run the script manually. Here are the list of things you need to install inorder to run this script:
 
 #### • Python:
 ```http
